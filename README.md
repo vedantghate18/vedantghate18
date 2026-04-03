@@ -81,7 +81,7 @@ Account abstraction implementation following the ERC-4337 standard with EntryPoi
 
 ---
 
-## 🤝 Currently Need Help With
+## 🤝 Currently Learning Much About
 
 - Deep diving into smart contract vulnerabilities & attack vectors
 - Production-grade gas optimization strategies
