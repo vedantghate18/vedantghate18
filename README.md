@@ -35,7 +35,7 @@ Account abstraction implementation following the ERC-4337 standard with EntryPoi
 - Exploring Sepolia deployment & gas optimization patterns
 - zkSync account abstraction exploration & L2 deployment patterns
 
-### **Aave V3 Liquidation Finder Bot
+### **Aave V3 Liquidation Finder Bot**
 High-performance Node.js bot that monitors Aave V3 on Ethereum Mainnet for liquidation opportunities.
 - Real-time Borrow event scanning using Viem
 - Health Factor tracking & risk categorization (SAFE/RISKY/LIQUIDATABLE)
