@@ -2,7 +2,7 @@
 
 Building **smart contracts, DeFi protocols, and Web3 infrastructure** with a focus on security and clean code.
 
-Currently focused on **Solidity development**, smart contract security auditing, and scaling DeFi applications. I love turning complex blockchain concepts into production-ready code.
+Currently focused on **Solidity development**,**Machine Learning**, and scaling DeFi applications. I love turning complex blockchain concepts into production-ready implementation and thinking about the AI integration in the blockchain ecosystem.
 
 ---
 
