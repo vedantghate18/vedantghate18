@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Vedant!
 
-Building **smart contracts, DeFi protocols, and Web3 infrastructure** with a focus on security and clean code.
+Building **smart contracts, DeFi protocols, AI and Machine Learning ,and Web3 infrastructure** with a focus on Model integration in the blockchain ecosystem and clean code.
 
-Currently focused on **Solidity development**,**Machine Learning**, and scaling DeFi applications. I love turning complex blockchain concepts into production-ready implementation and thinking about the AI integration in the blockchain ecosystem.
+Currently focused on **Solidity development**, **Machine Learning**, and scaling DeFi applications. I love turning complex blockchain concepts into production-ready implementation and thinking about the AI integration in the blockchain ecosystem.
 
 ---
 
@@ -49,7 +49,8 @@ High-performance Node.js bot that monitors Aave V3 on Ethereum Mainnet for liqui
 - **Advanced Foundry** — Fuzz testing, invariant testing, fork testing patterns
 - **Smart Contract Security** — Vulnerability patterns, audit techniques, Code4rena deep dives
 - **EVM Internals** — Storage layout, opcodes, gas optimization, deployment bytecode
-- **Account Abstraction** — ERC-4337 standard, EntryPoint mechanics, user operations
+- **Account Abstraction** — ERC-4337 standard, EntryPoint mechanics, user operation
+- **Machine Learning & Deep Learning** - Predicition based models, AI integration, ML pipelines, Pytorch, Neural Networks
 
 ---
 
@@ -62,13 +63,18 @@ High-performance Node.js bot that monitors Aave V3 on Ethereum Mainnet for liqui
 ![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logoColor=black)
 
-### **Frontend & Mobile**
+
+### **Web & Mobile Development**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Expressjs](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MONGO DB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ### **Tools & Infrastructure**
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -76,15 +82,26 @@ High-performance Node.js bot that monitors Aave V3 on Ethereum Mainnet for liqui
 ![TheGraph](https://img.shields.io/badge/TheGraph-6B3CE6?style=for-the-badge&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
 ---
 
 ## 👯 Open To Collaborating On
 
-- Smart contract development & auditing
+- Smart contract development
 - DeFi protocol design & optimization
 - Mobile apps connected to blockchain backends
 - Web3 infrastructure & tooling
 - NFT/DAO contracts & mechanisms
+- AI Model integrations
+- ML and DL Research
 
 ---
 
@@ -94,18 +111,20 @@ High-performance Node.js bot that monitors Aave V3 on Ethereum Mainnet for liqui
 - Production-grade gas optimization strategies
 - Advanced Foundry patterns (fork testing, complex invariants)
 - Cross-chain architecture & bridging mechanisms
-- Audit contest prep & competitive vulnerability finding
+- AI Maintainance and MLOps
+- Generative AI
+- Deep Learning and Neural Networks
 
 ---
 
 ## 💬 Let's Talk About
 
-- Smart contract security & auditing
+- Generative AI and model Integration
 - DeFi protocol design
 - Solidity best practices
 - Foundry testing patterns
 - EVM internals & gas optimization
-- Mobile + blockchain integration
+- Mobile + blockchain integration + AI integration
 - The journey from learning to production
 
 ---
@@ -128,8 +147,8 @@ High-performance Node.js bot that monitors Aave V3 on Ethereum Mainnet for liqui
 
 ## ⚡ Fun Fact
 
-I enjoy turning complex blockchain ideas into clean, auditable code—and I've learned something new from every failed test and every contract I've broken (and fixed) along the way. 🔧
+From smart contracts to AI-powered applications, I enjoy translating complex ideas into scalable, auditable code—and every bug has been a lesson in building better systems. 
 
 ---
 
-*Last updated: April 2026 | Always learning, always building* 🚀
+*Last updated: June 2026 | Always learning, always building* 🚀
