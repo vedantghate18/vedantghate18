@@ -9,9 +9,9 @@ Currently focused on **Solidity development**, smart contract security auditing,
 ## 🔭 What I'm Working On
 
 - **Smart Contract Development** — Building DeFi protocols, ERC standards, and account abstraction implementations
-- **Security & Auditing** — Preparing for Code4rena/Sherlock audits, diving deep into smart contract vulnerabilities
 - **On-Chain Infrastructure** — IPFS integration, gas optimization, cross-chain patterns
 - **Mobile + Blockchain** — Connecting Solidity backends to Flutter/React Native frontends
+- **AI and Machine Learning** - Making ML and DL models for Deeper understanding of Generative AI and machine Learning
 
 ---
 
