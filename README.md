@@ -65,6 +65,33 @@ Downloadable PDF ◄── ReportLab Engine ◄── Schema Validation ◄─�
 **Stack:** `Next.js` `Python` `Groq API` `OpenAI API Spec` `ReportLab` `Tailwind CSS`  
 **Highlights:** Automated resume parsing · requirement-matching prompt pipelines · deterministic schema-compliant generation · programmatic PDF compilation with ReportLab · [Live Demo](https://www.0xpraxis.tech)
 
+<details>
+<summary><b>🔍 View Pipeline Execution Flow & Constraints</b></summary>
+<br/>
+
+```json
+{
+  "pipeline": "resume_parser_v1",
+  "extraction": {
+    "source": "candidate_resume.pdf",
+    "extracted_entities": ["core_skills", "project_history", "impact_metrics"]
+  },
+  "inference_layer": {
+    "provider": "Groq",
+    "model": "llama-3.3-70b-versatile",
+    "temperature": 0.2,
+    "rules": [
+      "Strict grounding: Map candidate evidence directly to job requirements",
+      "Zero hallucination: Reject unverifiable metric claims",
+      "Format constraint: Deterministic structural layout for ReportLab PDF compilation"
+    ]
+  },
+  "output": "tailored_cover_letter.pdf"
+}
+```
+
+</details>
+
 ---
 
 ## 02. [Aave V3 Liquidation Finder Bot](https://github.com/vedantghate18/liquidation-finder-bot) · [repo](https://github.com/vedantghate18/liquidation-finder-bot)
@@ -82,6 +109,20 @@ Persistent Telemetry Logs ◄── [SAFE | RISKY | LIQUIDATABLE] ◄── Poll
 
 **Stack:** `Node.js` `Viem` `Alchemy RPC` `Aave V3` `JavaScript`  
 **Highlights:** Real-time event streaming via Viem · dynamic collateral & borrow balance evaluation · tri-state risk categorization (`SAFE`, `RISKY`, `LIQUIDATABLE`) · persistent disk logging for auditability
+
+<details>
+<summary><b>📊 View Sample Event Telemetry Log</b></summary>
+<br/>
+
+```text
+[INFO] 2026-10-15 14:02:01 | Viem WebSocket connected to Ethereum Mainnet (Block #20451980)
+[SCAN] Parsing Borrow event: User 0x8a92...4b1c | Pool: Aave V3 Pool
+[EVAL] Collateral: $142,500.00 (45.2 WETH) | Total Debt: $138,200.00 (USDC)
+[RISK] Computed Health Factor: 1.0312 -> Status: [RISKY] -> Warning threshold tripped
+[INFO] Log entry persisted to /var/log/aave_liquidations/2026-10-15.log
+```
+
+</details>
 
 ---
 
@@ -154,6 +195,16 @@ Currently diving deeper into:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantghate18&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+# `engineering_notes/`
+
+Selected technical deep-dives and architectural write-ups:
+
+- 📝 **[Taming Hallucinations in Production Document Generation](https://vedantghateportfolio.vercel.app/)** — Practical patterns for ground-truth enforcement and schema-constrained LLM output.
+- 📝 **[Stateful Fuzzing & Invariant Modeling with Foundry](https://vedantghateportfolio.vercel.app/)** — Writing adversarial invariant test suites to preserve DeFi protocol solvency.
+- 📝 **[Real-Time Event Processing on the EVM via Viem](https://vedantghateportfolio.vercel.app/)** — Low-latency event streaming, log decoding, and health factor math on Aave V3.
 
 ---
 
