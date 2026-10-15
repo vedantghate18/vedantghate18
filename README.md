@@ -23,7 +23,7 @@ PHILOSOPHY="Ship working software. Understand systems down to the bytecode."
 
 I'm a software engineer focused on building practical AI-powered products, resilient backend systems, and decentralized infrastructure. I enjoy taking projects from idea to deployment: the model orchestration, the API layer, the user interface, and the verifiable on-chain contracts that back them up.
 
-[Portfolio](https://vedantghateportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vedant-ghate-40b622290/) · [X / Twitter](https://x.com/_0xshunya_) · [Email](mailto:vedantghate11@gmail.com)
+[Portfolio](https://vedantghateportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vedant-ghate-40b622290/) · [X / Twitter](https://x.com/_0xshunya_) · [Email](mailto:vedantghate0603@gmail.com)
 
 **Currently building & exploring:**
 - 🤖 **Applied AI & LLM Systems:** Document intelligence, structured generation rules, and agentic workflows.
@@ -206,7 +206,7 @@ Currently diving deeper into:
 [![Portfolio](https://img.shields.io/badge/Portfolio-vedantghateportfolio.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://vedantghateportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-ghate-40b622290/)
 [![X](https://img.shields.io/badge/X-Follow%20%40__0xshunya__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_0xshunya_)
-[![Email](https://img.shields.io/badge/Email-vedantghate11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantghate11@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vedantghate0603%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantghate0603@gmail.com)
 
 ---
 
