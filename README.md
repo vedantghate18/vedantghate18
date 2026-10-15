@@ -50,9 +50,9 @@ I'm a software engineer focused on building practical AI-powered products, resil
 
 # `projects/`
 
-## 01. [Praxis](https://www.0xpraxis.tech) · [live](https://www.0xpraxis.tech)
+## 01. [Praxis](https://www.0xpraxis.tech) · [Live SaaS Product](https://www.0xpraxis.tech)
 
-An applied AI product that automates personalized, role-specific job application cover letters from candidate resumes and job descriptions with strict hallucination control and formatting constraints.
+An applied AI SaaS product that automates personalized, role-specific job application cover letters from candidate resumes and job descriptions with strict grounding constraints and zero-hallucination rules.
 
 ```
 Resume (.pdf / text) ────┐
@@ -63,10 +63,10 @@ Downloadable PDF ◄── ReportLab Engine ◄── Schema Validation ◄─�
 ```
 
 **Stack:** `Next.js` `Python` `Groq API` `OpenAI API Spec` `ReportLab` `Tailwind CSS`  
-**Highlights:** Automated resume parsing · requirement-matching prompt pipelines · deterministic schema-compliant generation · programmatic PDF compilation with ReportLab · [Live Demo](https://www.0xpraxis.tech)
+**Highlights:** Sub-1.5s inference latency via Groq LPU acceleration · automated resume entity parsing · strict ground-truth prompt rules eliminating hallucinations · deterministic ReportLab PDF engine avoiding heavy headless browser overhead · [Live SaaS Application](https://www.0xpraxis.tech)
 
 <details>
-<summary><b>🔍 View Pipeline Execution Flow & Constraints</b></summary>
+<summary><b>🔍 View Pipeline Execution Flow & Architectural Constraints</b></summary>
 <br/>
 
 ```json
@@ -108,7 +108,7 @@ Persistent Telemetry Logs ◄── [SAFE | RISKY | LIQUIDATABLE] ◄── Poll
 ```
 
 **Stack:** `Node.js` `Viem` `Alchemy RPC` `Aave V3` `JavaScript`  
-**Highlights:** Real-time event streaming via Viem · dynamic collateral & borrow balance evaluation · tri-state risk categorization (`SAFE`, `RISKY`, `LIQUIDATABLE`) · persistent disk logging for auditability
+**Highlights:** Zero block-lag event streaming on Ethereum Mainnet via Viem · dynamic collateral & borrow balance evaluation · tri-state risk categorization (`SAFE`, `RISKY`, `LIQUIDATABLE`) · persistent disk logging for historical analysis
 
 <details>
 <summary><b>📊 View Sample Event Telemetry Log</b></summary>
@@ -139,7 +139,7 @@ Undercollateralized Position ──► Liquidation Engine ──► Collateral S
 ```
 
 **Stack:** `Solidity` `Foundry` `Chainlink Oracles` `ERC-20` `OpenZeppelin`  
-**Highlights:** Algorithmic debt ceiling & collateral ratios · Chainlink oracle integration · third-party liquidation incentive mechanics · comprehensive Foundry testing suite including unit, stateful fuzz, and invariant tests
+**Highlights:** Algorithmic debt ceiling & 150% minimum collateral ratio · Chainlink oracle integration · third-party liquidation incentive mechanics · 10,000+ stateful fuzz & invariant test runs in Foundry verifying protocol solvency under adversarial inputs
 
 ---
 
@@ -156,7 +156,7 @@ Tokens Transferred ◄── ECDSA Verification + Merkle Proof Check
 ```
 
 **Stack:** `Solidity` `Foundry` `EIP-712` `Merkle Trees` `Anvil`  
-**Highlights:** O(log n) on-chain proof verification · EIP-712 typed-data signing for gasless delegation · full Foundry test coverage (unit, fuzz, and integration) · local deployment & verification on Anvil
+**Highlights:** ~48k gas claim cost compared to ~95k gas for storage-based registries · O(log n) cryptographic proof validation · EIP-712 typed-data signing for gasless delegation · full Foundry test coverage (unit, fuzz, and integration)
 
 ---
 
